@@ -4,13 +4,22 @@
 - Logistic Regression 
 - Linear regression 
     - multiple linear regression 
-    - Real world case study : Netflix, Hotstar 
 - LSTM 
 - Gradient descent 
 - KNN
 - Naive Bayes
 - Support Vector machine 
 - Decision tree 
+    - random forest 
+    - homogenity
+    - gini index 
+    - information gain 
+    - detect heart desease 
+    - ads 
+    - disads : 
+        - overfitting 
+
+
 - Ensembling 
 - 
 
@@ -35,7 +44,16 @@
 
 ## Predict stock price 
 - ML production pipeline 
-## 
+## Predict income 
+- 
 
+
+
+
+
+
+## Case study 
+- Hotstar 
+- Netflix 
 
 
