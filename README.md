@@ -18,13 +18,22 @@
     - ads 
     - disads : 
         - overfitting 
-
-
 - Ensembling 
-- 
+- Bayesian network 
+- Association rule learning
+- NLP 
+    - stop words
+    - name entity recognition 
+    - parts of speech 
+    - relationships
+
+
 
 
 ## ML production pipeline
+- Data acquisition
+    - crawl 
+    - sources : text-based documentation, multimedia, video, audio
 
 
 ## Large scale ML pipeline 
