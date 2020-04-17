@@ -23,3 +23,13 @@
     - remove spacing around punctuation
     - use alternate stop word removal techniques 
     - alternate sentiment analysis techniques 
+
+
+- libs 
+    - lingPipe
+    - OpenNLP tools 
+    - Bbc core 
+    - DL4J
+    - Twitter4J
+    - ND4J
+    - 

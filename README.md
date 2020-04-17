@@ -57,7 +57,10 @@
 - 
 
 
-
+## Tech stack 
+- Java
+- Python 
+- Hardware : 64 bit 2+ GHzCPU, 1Gb 
 
 
 
