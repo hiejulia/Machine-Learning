@@ -6,6 +6,48 @@
 + model data 
 
 
+
+
+
+
+
+
+#### Predict California housing 
+- multiple regression 
+- multivariate regression 
+- Root Mean Square Error (RMSE)
+
+
+###### Fine tune model 
+- Randomized Search
+- Ensemble methods 
+- grid search 
+
+###### Train model 
+- LR model 
+
+
+- Better Evaluation Using Cross-Validation
+
+
+
+
+
+
+###### Analyze best models and their errors 
+
+
+- score of attribute 
+- clean up outliers , etc 
+
+
+
+###### Predict on test set 
+- notice : cross-validation 
+- tweak hyperparameter 
+
+
+
 #### Find cheap airfares 
 + Density based spatial clustering of applications with noise, isolation forests, Grubb's Test
 + time series data 
