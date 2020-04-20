@@ -1,6 +1,7 @@
 ### Iris classification 
 - j48 decision tree classifier  
 
+<a href="https://imgur.com/B9Fpu0y"><img src="https://i.imgur.com/B9Fpu0y.png" title="source: imgur.com" /></a>
 
 #### dataset 
 - iris.arff

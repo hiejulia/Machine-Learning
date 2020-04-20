@@ -66,7 +66,7 @@ public class WekaApplication {
 
     // Driver program
     public static void main(String[] args) throws Exception {
-        BufferedReader datafile = readDataFile("iris.arff");
+        BufferedReader datafile = readDataFile("src/main/resources/iris.arff");
 
         Instances data = new Instances(datafile);
         data.setClassIndex(data.numAttributes() - 1);
