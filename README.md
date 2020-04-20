@@ -105,12 +105,9 @@
     - `python -m ipykernel install --user --name=python3`
     - `jupyter notebook`
 
-## Case study 
-- Hotstar 
-- Netflix 
+- Weka 
 
 
-# ML-DL-AI
 ### Machine learning 
 #### Algorithms 
 
@@ -223,3 +220,7 @@ Archived repo: https://github.com/hiejulia/Machine-Learning---Deep-Learning---AI
 - https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public
 - https://www.reddit.com/r/datasets/
 - https://registry.opendata.aws/
+## Case study 
+- Hotstar 
+- Netflix 
+
