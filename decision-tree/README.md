@@ -8,8 +8,6 @@
     - prevent overlifting issue in DT 
 - tuning 
 
-
-
 ## Income prediction wiht DT 
 - Attributes : age, working class type, marital status, gender, race 
 - build DT with hyperparameters 

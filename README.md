@@ -33,35 +33,26 @@
 - K Means cluster
 - XGBoost classifier 
 
-    
-
+### Project 
+- Classify malware family using K Means cluster
+- Prediction analysis with different algorithms 
+- Anomaly detection with Isolation Forest algorithm
+- Analyze time series 
 
 
 ## ML production pipeline
-
 - Data acquisition
     - crawl 
     - sources : text-based documentation, multimedia, video, audio
-
 - ML model
     - seletec model 
     - train 
-
 - fine tune model 
-
 - Batch learning
     - 
-
-
-
 - Online learning 
-
 - Save trained model (joblib)
-
-
 - Monitor system   
-
-
 - Update dataset and retrain model regularly 
 - Automate 
     - collect data regularly 
@@ -69,7 +60,6 @@
     - Script to deploy model to prod 
     - script to evaluate model input data quality 
     - Backup model 
-
 
 ## Large scale ML pipeline 
 
@@ -82,14 +72,7 @@
 - Google Cloud AI platform 
 
 
-
-
 ## Recommendation system 
-
-## Predict stock price 
-- ML production pipeline 
-## Predict income 
-- 
 
 
 ## Tech stack 
