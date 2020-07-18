@@ -30,7 +30,9 @@
 - association rule learning 
 - Semi supervised learning algo 
     - Deep belief network 
-- Reinforcement learning 
+- K Means cluster
+- XGBoost classifier 
+
     
 
 

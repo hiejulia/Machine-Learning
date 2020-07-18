@@ -40,6 +40,19 @@
 
 
 
+### Logistic function 
+- sigmoid curve 
+
+
+### tuning 
+- penalty on misclassification 
+
+
+
+### visualize 
+- mesh grid 
+
+
 <a href="https://imgur.com/1S0fKdV"><img src="https://i.imgur.com/1S0fKdV.png" title="source: imgur.com" /></a>
 <a href="https://imgur.com/5LBwsTb"><img src="https://i.imgur.com/5LBwsTb.png" title="source: imgur.com" /></a>
 <a href="https://imgur.com/hqLCJSc"><img src="https://i.imgur.com/hqLCJSc.png" title="source: imgur.com" /></a>
