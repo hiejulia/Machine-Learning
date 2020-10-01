@@ -26,6 +26,7 @@
     - name entity recognition 
     - parts of speech 
     - relationships
+    - tf-idf
 - Anomaly detection 
 - association rule learning 
 - Semi supervised learning algo 
@@ -37,7 +38,11 @@
 - Classify malware family using K Means cluster
 - Prediction analysis with different algorithms 
 - Anomaly detection with Isolation Forest algorithm
-- Analyze time series 
+- Analyze time series algorithms
+- Recommendation algorithms
+    - Correlation based PearR 
+    - KNN 
+    - Cosine similarity 
 
 
 ## ML production pipeline
