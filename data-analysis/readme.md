@@ -1,0 +1,4 @@
+- Correlation 
+- outlier 
+- mean
+- std
