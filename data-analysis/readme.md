@@ -1,4 +1,6 @@
 - Correlation 
 - outlier 
+    - percentile
+    - inter quertile range 
 - mean
 - std
