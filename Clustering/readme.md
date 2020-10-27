@@ -9,3 +9,6 @@
 ### Min Shift algorithm
 - Customer Segmentation 
 - https://archive.ics.uci.edu/ml/datasets/Wholesale+customers
+
+### Clustering model using affinity propagation 
+
