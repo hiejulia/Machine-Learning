@@ -1,7 +1,7 @@
 # Clustering 
 ### K Means
 - silhouette coefficient score
-
+    - mean intra-cluster distance (x), and the mean nearest-cluster distance (y)
 
 ### DBSCan
 
