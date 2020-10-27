@@ -62,5 +62,3 @@ print(regr.coef_, regr.intercept_)  # [ 32.14285714] 175000.0
 print(regr.predict(3000))  # 271428.57142857
 
 
-## example 
-# Linear regression

@@ -1,4 +1,4 @@
-## Decision 
+## Decision Tree 
 - pandas, numpy, seaborn
 
 - data clean 
@@ -7,6 +7,12 @@
 - build model and evaluation 
     - prevent overlifting issue in DT 
 - tuning 
+
+## Performance tuning 
+#### Decision Tree Regression with AdaBoost
+- Dataset : https://archive.ics.uci.edu/ml/machine-learning-databases/housing/
+
+
 
 ## Income prediction wiht DT 
 - Attributes : age, working class type, marital status, gender, race 
