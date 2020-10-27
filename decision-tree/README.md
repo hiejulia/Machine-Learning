@@ -11,7 +11,8 @@
 ## Performance tuning 
 #### Decision Tree Regression with AdaBoost
 - Dataset : https://archive.ics.uci.edu/ml/machine-learning-databases/housing/
-
+- Using DT Regression w AdaBoost
+- Get feature importance
 
 
 ## Income prediction wiht DT 
