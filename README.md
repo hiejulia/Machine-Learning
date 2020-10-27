@@ -19,6 +19,10 @@
     - disads : 
         - overfitting 
 - Ensembling 
+    - boosting
+    - stacking
+    - random subspaces 
+    - Extreme randomized tree 
 - Bayesian network 
 - Association rule learning
 - NLP 
@@ -33,6 +37,8 @@
     - Deep belief network 
 - K Means cluster
 - XGBoost classifier 
+- K Fold crossvalidation 
+
 
 ### Project 
 - Classify malware family using K Means cluster
@@ -43,7 +49,7 @@
     - Correlation based PearR 
     - KNN 
     - Cosine similarity 
-
+- Ensembling using in project 
 
 ## ML production pipeline
 - Data acquisition
