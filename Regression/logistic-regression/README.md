@@ -11,6 +11,7 @@
 - scikit-learn 
 
 - create target for the model 
+- regularization: Ridge, Lasso
 
 
 
